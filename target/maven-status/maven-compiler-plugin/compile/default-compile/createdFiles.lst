@@ -1,0 +1,11 @@
+view\ui\SwingImageDisplay.class
+view\persistence\FileImageLoader$2.class
+view\persistence\FileImageLoader$1.class
+model\Image.class
+view\ui\ImageDisplay.class
+controller\MainFrame.class
+controller\Main.class
+controller\MainFrame$1.class
+controller\MainFrame$2.class
+view\persistence\FileImageLoader.class
+view\persistence\ImageLoader.class
